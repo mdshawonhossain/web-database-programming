@@ -1,0 +1,5 @@
+<fieldset style="text-align: center; height: 300px; color: black;">
+                <legend>
+                    <h3 style="color:darkblue">Create Your CV</h3>
+                </legend>
+</fieldset>
